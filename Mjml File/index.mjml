@@ -1,0 +1,88 @@
+<mjml>
+  <mj-body background-color="#ecf0f1">
+    <!-- Start Banner Section -->
+    <mj-section background-color="#f5a6bc">
+      <mj-column>
+        <mj-image href="#" width="120px" src="https://i.ibb.co/gSfsDkW/logo-white.png"></mj-image>
+        <mj-text align="center" padding-top="25px" font-size="25px" text-transform="capitalize" font-weight="700">health tips and lifestyle advice</mj-text>
+        <mj-image src="https://i.ibb.co/Zhq3C7M/banner.png"></mj-image>
+        <mj-text align="center" padding-top="15px" font-size="15px" text-transform="capitalize" font-weight="200" line-height="18px">lorem ipsum is simply dummy text of theprinting and type setting industry. lorem ipsum been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gallery of type and scrambled.</mj-text>
+        <mj-text align="center" padding-top="15px" font-size="20px" text-transform="capitalize" font-weight="600" line-height="18px" color="#9f4b62" padding-bottom="25px">"doctor name"</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+    <!-- Start About Section -->
+    <mj-section background-color="#fff" padding-top="50px">
+      <mj-column>
+        <mj-text align="center" padding-top="25px" font-size="25px" text-transform="capitalize" font-weight="700">health tips and lifestyle advice</mj-text>
+        <mj-text align="center" padding-top="15px" font-size="15px" text-transform="capitalize" font-weight="200" line-height="18px">lorem ipsum been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gallery of type and scrambled.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End About Section -->
+    <!-- Start Feature One Section -->
+    <mj-section background-color="#fff" padding-bottom="0">
+      <mj-column width="20%" background-color="#d68fbb">
+        <mj-text align="center" padding="30px 30px" color="#000" font-size="50px" font-weight="800">01</mj-text>
+      </mj-column>
+      <mj-column width="80%" background-color="#f9c5d1">
+        <mj-text align="center" padding-top="35px" padding-bottom="35px" line-height="20px" font-weight="500">lorem ipsum been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gallery of type and scrambled.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Feature One Section -->
+    <!-- Start Feature Two Section -->
+    <mj-section background-color="#fff" direction="rtl" padding-bottom="0">
+      <mj-column width="20%" background-color="#d68fbb">
+        <mj-text align="center" padding="30px 30px" color="#000" font-size="50px" font-weight="800">02</mj-text>
+      </mj-column>
+      <mj-column width="80%" background-color="#f9c5d1">
+        <mj-text align="center" padding-top="35px" padding-bottom="35px" line-height="20px" font-weight="500">lorem ipsum been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gallery of type and scrambled.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Feature Two Section -->
+    <!-- Start Feature Three Section -->
+    <mj-section background-color="#fff" padding-bottom="0">
+      <mj-column width="20%" background-color="#d68fbb">
+        <mj-text align="center" padding="30px 30px" color="#000" font-size="50px" font-weight="800">03</mj-text>
+      </mj-column>
+      <mj-column width="80%" background-color="#f9c5d1">
+        <mj-text align="center" padding-top="35px" padding-bottom="35px" line-height="20px" font-weight="500">lorem ipsum been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gallery of type and scrambled.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Feature Three Section -->
+    <!-- Start Feature Four Section -->
+    <mj-section background-color="#fff" direction="rtl">
+      <mj-column width="20%" background-color="#d68fbb">
+        <mj-text align="center" padding="30px 30px" color="#000" font-size="50px" font-weight="800">04</mj-text>
+      </mj-column>
+      <mj-column width="80%" background-color="#f9c5d1">
+        <mj-text align="center" padding-top="35px" padding-bottom="35px" line-height="20px" font-weight="500">lorem ipsum been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gallery of type and scrambled.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Feature Four Section -->
+    <!-- Start Button Section -->
+    <mj-section background-color="#fff" padding-bottom="25px">
+      <mj-column>
+        <mj-button href="#" background-color="#d68fbb" inner-padding="15px 15px" width="50%" border-radius="5px" font-size="18px" text-transform="capitalize" font-weight="300">visit more</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- End Button Section -->
+    <!-- Start Footer Section -->
+    <mj-section padding-top="35px" padding-bottom="45px" background-color="#ecf0f1">
+      <mj-column>
+        <mj-text align="center" padding-bottom="25px">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/J36cZzF/facebook.png" style="width:35px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/jV8fctP/linkedin.png" style="width:35px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/GdZ4Qkh/instagram.png" style="width:35px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/gzwkBDz/x.png" style="width:35px;margin-right:5px;" /></a>
+          </div>
+        </mj-text>
+        <mj-text line-height="20px" align="center" text-transform="uppercase" font-size="16px" font-weight="200">unsubscribe&nbsp;| privacy policy&nbsp;| web </mj-text>
+        <mj-text padding-top="0" font-size="13px" line-height="18px" font-weight="200" align="center">lorem ipsum is simply dummy text of the printing and type setting industry. lorem ipsum been the industry's standard dummy text ever since the 1500s.</mj-text>
+        <mj-divider border-color="#c6c6c6" border-width="2px" border-style="solid" padding-bottom="35px" padding-top="25px"></mj-divider>
+        <mj-image href="#" src="https://i.ibb.co/G3fQtyJ/made-logo.png" width="120px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- End Footer Section -->
+  </mj-body>
+</mjml>
